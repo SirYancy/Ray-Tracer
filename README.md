@@ -9,3 +9,5 @@ To use, simply **make** the project and then run it from terminal:
 ```
 ./raytrace test.scn
 ```
+
+The Scene File specification is in the supplied pdf.
